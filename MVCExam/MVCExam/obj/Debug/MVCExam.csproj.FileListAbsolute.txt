@@ -1,0 +1,7 @@
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\bin\Debug\MVCExam.exe.config
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\bin\Debug\MVCExam.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\bin\Debug\MVCExam.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\obj\Debug\MVCExam.csproj.AssemblyReference.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\obj\Debug\MVCExam.csproj.CoreCompileInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\obj\Debug\MVCExam.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCExam\MVCExam\obj\Debug\MVCExam.pdb
