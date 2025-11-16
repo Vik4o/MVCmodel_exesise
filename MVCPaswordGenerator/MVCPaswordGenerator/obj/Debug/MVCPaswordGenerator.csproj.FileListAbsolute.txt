@@ -1,0 +1,7 @@
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\bin\Debug\MVCPaswordGenerator.exe.config
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\bin\Debug\MVCPaswordGenerator.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\bin\Debug\MVCPaswordGenerator.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\obj\Debug\MVCPaswordGenerator.csproj.AssemblyReference.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\obj\Debug\MVCPaswordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\obj\Debug\MVCPaswordGenerator.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPaswordGenerator\MVCPaswordGenerator\obj\Debug\MVCPaswordGenerator.pdb
