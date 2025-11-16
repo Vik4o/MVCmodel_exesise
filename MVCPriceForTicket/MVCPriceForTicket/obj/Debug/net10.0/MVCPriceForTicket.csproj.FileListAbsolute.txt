@@ -1,0 +1,14 @@
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\bin\Debug\net10.0\MVCPriceForTicket.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\bin\Debug\net10.0\MVCPriceForTicket.deps.json
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\bin\Debug\net10.0\MVCPriceForTicket.runtimeconfig.json
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\bin\Debug\net10.0\MVCPriceForTicket.dll
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\bin\Debug\net10.0\MVCPriceForTicket.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.AssemblyInfoInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.AssemblyInfo.cs
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.csproj.CoreCompileInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.dll
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\refint\MVCPriceForTicket.dll
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\MVCPriceForTicket.genruntimeconfig.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCPriceForTicket\MVCPriceForTicket\obj\Debug\net10.0\ref\MVCPriceForTicket.dll
