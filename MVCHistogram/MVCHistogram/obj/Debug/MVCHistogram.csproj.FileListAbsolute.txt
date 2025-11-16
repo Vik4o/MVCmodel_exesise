@@ -1,0 +1,7 @@
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\bin\Debug\MVCHistogram.exe.config
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\bin\Debug\MVCHistogram.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\bin\Debug\MVCHistogram.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\obj\Debug\MVCHistogram.csproj.AssemblyReference.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\obj\Debug\MVCHistogram.csproj.CoreCompileInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\obj\Debug\MVCHistogram.exe
+C:\Users\Desislava\Desktop\code work\MVC model\MVCHistogram\MVCHistogram\obj\Debug\MVCHistogram.pdb
