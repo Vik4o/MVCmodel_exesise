@@ -1,0 +1,14 @@
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\bin\Debug\net10.0\TourMVC.exe
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\bin\Debug\net10.0\TourMVC.deps.json
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\bin\Debug\net10.0\TourMVC.runtimeconfig.json
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\bin\Debug\net10.0\TourMVC.dll
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\bin\Debug\net10.0\TourMVC.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.AssemblyInfoInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.AssemblyInfo.cs
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.csproj.CoreCompileInputs.cache
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.dll
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\refint\TourMVC.dll
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.pdb
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\TourMVC.genruntimeconfig.cache
+C:\Users\Desislava\Desktop\code work\MVC model\TourMVC\TourMVC\obj\Debug\net10.0\ref\TourMVC.dll
